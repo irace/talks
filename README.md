@@ -1,6 +1,6 @@
 # Talks
 
-Some of the talks that I’ve given.
+Some talks that I’ve given.
 
 # License
 
